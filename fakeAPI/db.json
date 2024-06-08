@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Munggaran",
+      "email": "admin@email.com",
+      "bidang": "Devops"
+    },
+    {
+      "name": "Reva Luna",
+      "email": "ethanjeger123@gmail.com",
+      "bidang": "Fullstack ",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Rafi",
+      "email": "muhammadrojers@yahoo.com",
+      "bidang": "Backend"
+    }
+  ]
+}
